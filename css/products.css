@@ -14,19 +14,18 @@
   }
   
   .btn {
-    padding: 0 20px;
-    height: 40px;
-    font-size: 1em;
-    font-weight: 900;
+    padding: 0px 20px;
+    margin-top: 20px;
+    height: 50px;
     text-transform: uppercase;
-    border: 3px black solid;
-    border-radius: 2px;
-    background: transparent;
-    cursor: pointer;
+    border: 2px black solid;
+    background-color: var(--background-color-button);
+    color: var(--text-color);
+    border-radius: 20px;
 }
 
 .btn:hover {
-  background-color: rgb(8, 128, 175);
+  background-color: rgb(131, 215, 248);
 }
 
 .keyboard__image{

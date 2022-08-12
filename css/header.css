@@ -4,8 +4,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-
-    background-color: var(--background-color);
+    background-color: var(--background-color-headfoot);
 }
 
 img {
